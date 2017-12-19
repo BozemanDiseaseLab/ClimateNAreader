@@ -15,6 +15,7 @@
 11. Open the cjs Chrome extension, select http://www.climatewna.com/ in the dropdown and click 'enable cjs for this host'
 12. Copy and paste the code from *climate.js* into the cjs text field, click 'save'
 13. Wait patiently... the use of Google Maps slows the hack down substantially. Running overnight is recommended because the extension might interfere with other web pages (or use different browser until the hack is complete).
+14. When the hack has finished running, there will be a browser alert on the page saying "finished". The output should have automatically downloaded to the default directory. The default download directory can be set to *ClimateNAreader > Output* beforehand for continuity.
 
 ### Debugging
 
